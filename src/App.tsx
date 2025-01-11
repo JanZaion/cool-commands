@@ -12,6 +12,8 @@ function App() {
       <C command={commands.RESET} />
       <p>Create Vite app</p>
       <C command={commands.ADD_VITE} />
+      <p>Create Next app</p>
+      <C command={commands.ADD_NEXT} />
     </div>
   );
 }

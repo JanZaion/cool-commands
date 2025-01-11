@@ -4,4 +4,5 @@ export const commands = {
   RM_CACHE: 'git rm --cached -r .',
   RESET: 'git reset --hard',
   ADD_VITE: 'pnpm create vite@latest',
+  ADD_NEXT: 'pnpm create next-app'
 } as const;
