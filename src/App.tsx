@@ -14,6 +14,8 @@ function App() {
       <C command={commands.ADD_VITE} />
       <p>Create Next app</p>
       <C command={commands.ADD_NEXT} />
+      <p>ApiTree eslint</p>
+      <C command={commands.APITREE_ESLINT} />
     </div>
   );
 }
