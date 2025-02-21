@@ -16,6 +16,8 @@ function App() {
       <C command={commands.ADD_NEXT} />
       <p>ApiTree eslint</p>
       <C command={commands.APITREE_ESLINT} />
+      <p>To base64</p>
+      <C command={commands.TO_BASE64} />
     </div>
   );
 }
